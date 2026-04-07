@@ -22,5 +22,4 @@ The model uses a dataset containing:
 3. Run the cells to see the data visualization and model training process.
 
 ---
-## Author
-Shubhanshi Shaurya
+
